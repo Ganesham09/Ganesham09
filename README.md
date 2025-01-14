@@ -89,7 +89,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/IDuno [Ganesham]">
+  <a href="https://open.spotify.com/user/yyzuc1ggf0upuf2aaknylkcoy?si=nOxhta3PQkCIj2YgHEDIDA">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=yyzuc1ggf0upuf2aaknylkcoy" alt="Spotify recently played"  />
   </a>
 </div>
