@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFpM292eHM1bGU5Y3Zoa3h4MzUzdGtrbXNzbmFxdzM5ancybzV3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8J4UpZBiopdPyECto/giphy.gif"  />
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmI4dHcxZ3JtaTZid3Jwd3JybDYwZ3BlM2dwZXRjeThjbWpncWlsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w7CP59oLYw6PK/giphy.gif"  />
 </div>
 
 <h1 align="center">Hey I'm Ganesham 🍜</h1>
