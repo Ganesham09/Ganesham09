@@ -4,13 +4,12 @@
 
 <h1 align="center">Hey I'm Ganesham 🍜</h1>
 
-<br />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ganesham09.Ganesham09&" />
 </div>
 
-<br /><br />
+
 
 <div align="center">
   <a href="https://instagram.com/gannnesham" target="_blank">
