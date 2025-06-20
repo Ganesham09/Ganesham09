@@ -1,8 +1,9 @@
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmI4dHcxZ3JtaTZid3Jwd3JybDYwZ3BlM2dwZXRjeThjbWpncWlsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w7CP59oLYw6PK/giphy.gif"  />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFkeWFtdDJ0Nmt5N3Rld3BzcThiMmZ2NGtldDVvNnA2ZDRpMDhicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif"  />
 </div>
 
-<h1 align="center">Supp I'm Ganesham </h1>
+
+<h1 align="center">supp I'm ganesham </h1>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ganesham09.Ganesham09&" />
@@ -14,7 +15,6 @@ ganxsham⌁
 -------------------------
 OS: Fedora Linux x86_64 
 Shell: zsh 5.9
-Education: Computer Science Student
 Cloud: AWS, GCP
 Blockchain: Solana
 Frameworks: Anchor, web3.js, GSAP, NextJS, ReactJS, TailwindCSS
