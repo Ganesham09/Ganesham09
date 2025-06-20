@@ -18,7 +18,7 @@ Shell: zsh 5.9
 Cloud: AWS, GCP
 Blockchain: Solana
 Frameworks: Anchor, web3.js, GSAP, NextJS, ReactJS, TailwindCSS
-Languages: Go, JS, TS, rust
+Languages: Java, Python, Go, JS, TS, Rust 
 Databases: MongoDB, PostgreSQL
 -------------------------
 ```
